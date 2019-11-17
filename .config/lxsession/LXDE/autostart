@@ -2,4 +2,4 @@
 @pcmanfm --desktop --profile LXDE
 @xscreensaver -no-splash
 @synclient TapButton1=1 TapButton2=3 TapButton3=2
-@fdpoowermon
+@fdpowermon
